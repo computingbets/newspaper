@@ -39,6 +39,33 @@ p{
     padding: 12px 0 12px 0;
 
 }
+
+.arts {
+      background-color: #9eff03 !important;         
+}
+.fin {
+    background-color: #7b27f8 !important;
+}
+.pol {
+    background-color: #fa8e8e !important;
+}
+.lit {
+    background-color: #15b9bf !important;
+}
+
+.edition_divider {
+    border-top: 2px solid #7600f5;
+    padding-bottom: 12px;
+}
+
+.edition {
+    height: 6.5%;
+    width: 100%;
+    color: #5cf410;
+    font-size: 16px;
+    line-height: 1.75;
+}   
+
 .weatherforcastbox{
     position: relative;
     width: 12%;
